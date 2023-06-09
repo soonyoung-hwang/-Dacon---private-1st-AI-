@@ -5,4 +5,4 @@
 <img width="1232" alt="image" src="https://github.com/soonyoung-hwang/-Dacon-1st-score-Airport_Delay/assets/78343941/24582c4a-d2dd-444f-bb51-834f5c392f00">
 
 
-### 현재 본 코드 심사 중에 있습니다.
+<img width="587" alt="image" src="https://github.com/soonyoung-hwang/-Dacon-1st-score-Airport_Delay/assets/78343941/fcb34a2f-ec0a-426c-ab07-f1f13913bc96">
